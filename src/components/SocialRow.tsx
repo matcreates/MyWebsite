@@ -26,10 +26,10 @@ const social = [
     icon: "/icons/x.svg",
   },
   {
-    label: "LinkedIn",
+    label: "Threads",
     count: "18k",
-    href: "https://linkedin.com",
-    icon: "/icons/linkedin.svg",
+    href: "https://www.threads.net",
+    icon: "/icons/threads.svg",
   },
 ] as const;
 
