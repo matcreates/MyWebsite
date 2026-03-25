@@ -18,7 +18,7 @@ export const linkItems: LinkItem[] = [
   },
   {
     href: "https://cursor.com",
-    image: "/images/laptop.png",
+    image: "/images/cursor.png",
     imageAlt: "Laptop",
     category: "ONLINE MASTERCLASS",
     title: "Cursor Pro",
@@ -48,8 +48,8 @@ export const linkItems: LinkItem[] = [
   },
   {
     href: "#",
-    image: "/images/keyboard.png",
-    imageAlt: "Portfolio",
+    image: "/images/portfolio.png",
+    imageAlt: "Portfolio templates",
     category: "FIGMA TEMPLATES",
     title: "Portfolio Templates",
     description: "Give your masterpieces the shiny frame they deserve.",
